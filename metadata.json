@@ -1,0 +1,6 @@
+{
+  "name": "支持向量机与核空间变换实验室",
+  "description": "高维核空间映射、对偶拉格朗日求解与参数切片分析实验室",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
