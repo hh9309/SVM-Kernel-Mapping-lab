@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
-    "deploy": "vite build && gh-pages -d dist -r https://github.com/<你的用户名>/SVM-Kernel-Mapping-lab.git"
+    "deploy": "vite build && gh-pages -d dist -r https://github.com/hh9309/SVM-Kernel-Mapping-lab.git"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
